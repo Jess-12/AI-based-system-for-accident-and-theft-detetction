@@ -5,12 +5,14 @@ Road accidents are increasing daily as the number of automobiles rises. An annua
 
 
 ![image](https://github.com/Jess-12/AI-based-system-for-accident-and-theft-detetction/assets/127778661/410b3cc7-9d9d-4e30-9136-c5b1c810e0b8)
-fig 1- Causes of accidents
+
+Causes of accidents
 Along with accident vehicle theft has escalated globally in recent years. To combat vehicle theft, numerous vehicle anti-theft technologies were created and put into use. However, it remains a difficult challenge to address the problem of vehicle theft. Once a car is stolen, the smart system provides a quick tracking system to locate it.
 This report puts out the concept of an intelligent AI system for theft and accident detection.
 ![image](https://github.com/Jess-12/AI-based-system-for-accident-and-theft-detetction/assets/127778661/33d329d7-6165-4f89-ab06-068a2c23cb1e)
 
-fig 2 -Number of theft cases by its kind
+
+Number of theft cases by its kind
 
 
 
@@ -58,16 +60,22 @@ This is done in order to stop the engine. This GSM modem is interfaced to the mi
 
 
 Accident and Alert System
+
 ![image](https://github.com/Jess-12/AI-based-system-for-accident-and-theft-detetction/assets/127778661/d1d48189-cf26-48a5-a9db-b19c80cc959f)
 
-fig 3 – Block diagram for accident and alert System
+Block diagram for accident and alert System
+
 Theft Detection
+
 ![image](https://github.com/Jess-12/AI-based-system-for-accident-and-theft-detetction/assets/127778661/c1194976-2c26-467a-9724-5fec10a42e4b)
-fig 4 - Block diagram for 
+
+ Block diagram for 
+ 
 Theft detectionFace Recognition
+
 ![image](https://github.com/Jess-12/AI-based-system-for-accident-and-theft-detetction/assets/127778661/2b840a78-1fbf-4765-9743-170ba22bbc1d)
 
-fig 5- Methodology for Face Recognition
+Methodology for Face Recognition
 
 
 •	Working Principle
@@ -104,9 +112,13 @@ Theft Detection and Alert System
 •	Simulations results:
 
 •	In the simulation, we utilized a Raspberry Pi and an MCP3208, which functions as an Analog-to-Digital Converter (ADC). This ADC was connected to a potentiometer, enabling the instant modification of voltage values. This setup played a crucial role in the crash detection process. By incorporating three potentiometers, we simulated the behavior of an ADXL335 accelerometer within the simulation software. This configuration allowed us to mimic the response of a physical accelerometer and analyze its performance in detecting crashes effectively.
+
 ![image](https://github.com/Jess-12/AI-based-system-for-accident-and-theft-detetction/assets/127778661/8a739193-ab7d-4777-92cb-caa6a3b9a2d6)
+
 Simulation for Accident Detection
+
 •	Hardware Implementation:
+
 1)	ADXL 335
 •	The ADXL335 is a low-cost, three-axis accelerometer sensor. It is designed to measure acceleration in three dimensions. The sensor outputs an analog voltage proportional to the acceleration along each of the X, Y, and Z axes.
 •	The basic working principle of the ADXL335 is based on the deflection of the cantilever beams in response to acceleration. When the sensor is subjected to acceleration in a particular direction, the proof mass moves in that direction, causing the cantilever beams to deflect. The deflection of the beams changes the distance between the sensing electrodes, which changes the capacitance between them.
@@ -114,27 +126,36 @@ Simulation for Accident Detection
 •	The analog output signals from the sensor are amplified and filtered by the signal conditioning circuitry and then converted to digital signals using an analog-to-digital converter (ADC). The digital signals can then be processed by a microcontroller.
 
 Working
+
 ![image](https://github.com/Jess-12/AI-based-system-for-accident-and-theft-detetction/assets/127778661/80ce8dae-c11b-4011-be81-8216527ba3f1)
+
 Working of ADXL335
+
 Mcp3208(ADC)
+
 •	The MCP3208 is an 8-channel, 12-bit analog-to-digital converter (ADC). It is designed to convert analog signals into digital signals for use in digital devices, such as microcontrollers and computers.
 
 ![image](https://github.com/Jess-12/AI-based-system-for-accident-and-theft-detetction/assets/127778661/279fffc8-e7d7-45b4-a6ab-bc5245aa3072)
 - Communication flow
 
 2)	GPS module
+
 •	The GPS module is a device that receives signals from multiple satellites to determine its precise location on Earth.
 •		It consists of a GPS receiver, an antenna to capture satellite signals, and associated circuitry to process the received data.
 
 ![image](https://github.com/Jess-12/AI-based-system-for-accident-and-theft-detetction/assets/127778661/76618a04-2855-4c80-a601-4cda2a52b17f)
+
 GPS module and its parts
 •	The module's UART (Universal Asynchronous Receiver-Transmitter) pins, such as TX (transmit) and RX (receive), are connected to the Raspberry Pi's UART pins, allowing data transmission between the raspberry pi and GPS module.
 •	The transmitter of the raspberry pi is connected to receiver of GPS module and vice versa.
 Circuit Connection
+
 ![image](https://github.com/Jess-12/AI-based-system-for-accident-and-theft-detetction/assets/127778661/24c5ff65-ee41-4902-9835-d1967ce8b74e)
 
 GPS module connection with Raspberry Pi V4
+
 Block diagram of connection:
+
 ![image](https://github.com/Jess-12/AI-based-system-for-accident-and-theft-detetction/assets/127778661/25e0cd56-c7bb-4390-bb38-972c434793b4)
 
 GPS module block diagram
