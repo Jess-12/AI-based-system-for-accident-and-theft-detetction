@@ -143,7 +143,7 @@ Mcp3208(ADC)
 •	The GPS module is a device that receives signals from multiple satellites to determine its precise location on Earth.
 •		It consists of a GPS receiver, an antenna to capture satellite signals, and associated circuitry to process the received data.
 
-![image](https://github.com/Jess-12/AI-based-system-for-accident-and-theft-detetction/assets/127778661/76618a04-2855-4c80-a601-4cda2a52b17f)
+
 
 GPS module and its parts
 •	The module's UART (Universal Asynchronous Receiver-Transmitter) pins, such as TX (transmit) and RX (receive), are connected to the Raspberry Pi's UART pins, allowing data transmission between the raspberry pi and GPS module.
