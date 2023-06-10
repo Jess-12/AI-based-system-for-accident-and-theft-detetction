@@ -4,7 +4,7 @@
 Road accidents are increasing daily as the number of automobiles rises. An annual global death toll of 1.4 million and an injury toll of 50 million are reported by the WHO. Lack of access to healthcare is the main cause of death at the scene of the accident or the lengthy reaction time during the rescue effort. It has been noted that while emergency assistance will soon be available in locations with high traffic or in cities, it is more challenging to deliver it quickly on highways or in rural areas. It has been noted that delays in medical care cause serious injuries to result in mortality . To decrease the amount of fatalities from traffic accidents, an intelligent accident detection and warning system is required. Once the system identifies an accident, it will notify all emergency services like hospitals, police stations, and so on.
 
 
-![image](https://github.com/Jess-12/AI-based-system-for-accident-and-theft-detet
+
 
 Causes of accidents
 Along with accident vehicle theft has escalated globally in recent years. To combat vehicle theft, numerous vehicle anti-theft technologies were created and put into use. However, it remains a difficult challenge to address the problem of vehicle theft. Once a car is stolen, the smart system provides a quick tracking system to locate it.
