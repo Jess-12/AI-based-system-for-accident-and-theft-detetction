@@ -148,11 +148,3 @@ Mcp3208(ADC)
 GPS module and its parts
 •	The module's UART (Universal Asynchronous Receiver-Transmitter) pins, such as TX (transmit) and RX (receive), are connected to the Raspberry Pi's UART pins, allowing data transmission between the raspberry pi and GPS module.
 •	The transmitter of the raspberry pi is connected to receiver of GPS module and vice versa.
-Circuit Connection
-
-![image](https://github.com/Jess-12/AI-based-system-for-accident-and-theft-detetction/assets/127778661/24c5ff65-ee41-4902-9835-d1967ce8b74e)
-
-
-
-
-GPS module block diagram
