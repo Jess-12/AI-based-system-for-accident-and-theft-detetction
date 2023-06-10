@@ -152,10 +152,7 @@ Circuit Connection
 
 ![image](https://github.com/Jess-12/AI-based-system-for-accident-and-theft-detetction/assets/127778661/24c5ff65-ee41-4902-9835-d1967ce8b74e)
 
-GPS module connection with Raspberry Pi V4
 
-Block diagram of connection:
 
-![image](https://github.com/Jess-12/AI-based-system-for-accident-and-theft-detetction/assets/127778661/25e0cd56-c7bb-4390-bb38-972c434793b4)
 
 GPS module block diagram
