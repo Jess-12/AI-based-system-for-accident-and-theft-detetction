@@ -59,9 +59,7 @@ This is done in order to stop the engine. This GSM modem is interfaced to the mi
 •	System Design / Architecture
 
 
-Accident and Alert System
 
-![image](https://github.com/Jess-12/AI-based-system-for-accident-and-theft-detetction/assets/127778661/d1d48189-cf26-48a5-a9db-b19c80cc959f)
 
 Block diagram for accident and alert System
 
