@@ -71,7 +71,6 @@ Theft Detection
  
 Theft detectionFace Recognition
 
-![image](https://github.com/Jess-12/AI-based-system-for-accident-and-theft-detetction/assets/127778661/2b840a78-1fbf-4765-9743-170ba22bbc1d)
 
 Methodology for Face Recognition
 
