@@ -9,7 +9,7 @@ Road accidents are increasing daily as the number of automobiles rises. An annua
 Causes of accidents
 Along with accident vehicle theft has escalated globally in recent years. To combat vehicle theft, numerous vehicle anti-theft technologies were created and put into use. However, it remains a difficult challenge to address the problem of vehicle theft. Once a car is stolen, the smart system provides a quick tracking system to locate it.
 This report puts out the concept of an intelligent AI system for theft and accident detection.
-![image](https://github.com/Jess-12/AI-based-system-for-accident-and-theft-detetction/assets/127778661/33d329d7-6165-4f89-ab06-068a2c23cb1e)
+![image](https://github.com/Jess-12/AI-based-system-for-accident-and-t
 
 
 Number of theft cases by its kind
